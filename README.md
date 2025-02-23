@@ -48,7 +48,7 @@ To run this project, follow these steps:
 ## 🎓 Training the Model
 To train the model, run:
 ```bash
-python train.py --data_dir flowers --arch vgg16 --epochs 10 --gpu
+python train.py --data_dir flowers --arch vgg16 --epochs 5 --gpu
 ```
 
 ## 🔍 Making Predictions
